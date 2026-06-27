@@ -103,7 +103,7 @@ nav .navigation ul li a:hover
 /*------------- Hero section styling start --------------*/
 #home
 {
-	<img src="img_w4e.jpg" alt="5 people playing instruments" linear-gradient(rgba(103, 99, 110, 0.3), rgba(35, 35, 35, 0.7))>
+	background-image:<img src="img_w4e.jpg" alt="5 people playing instruments" linear-gradient(rgba(103, 99, 110, 0.3), rgba(35, 35, 35, 0.7))>
 	height: 100vh;
 	background-size: cover;
 	background-position: center center;
